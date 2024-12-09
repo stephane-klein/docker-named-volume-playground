@@ -1,6 +1,8 @@
 # docker compose with named volume playground
 
-Prerequisite:
+More information in french: https://notes.sklein.xyz/2024-12-09_1550/
+
+## Prerequisite
 
 - docker
 - direnv
@@ -94,4 +96,4 @@ $ cd ..
 ```sh
 $ docker volume ls
 DRIVER    VOLUME NAME
-```
+``t`
